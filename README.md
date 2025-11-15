@@ -287,5 +287,5 @@ Tie a rope to a pole and flick it:
 
 
 ## ✅ **Conclusion**
-  The transmission line general solution describes how voltage and current propagate as waves along a medium. The exponential form captures both **attenuation** and **phase shift**, essential for RF and high‑speed circuit design.
+- The transmission line general solution describes how voltage and current propagate as waves along a medium. The exponential form captures both **attenuation** and **phase shift**, essential for RF and high‑speed circuit design.
 ---
